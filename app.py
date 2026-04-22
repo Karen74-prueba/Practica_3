@@ -3,6 +3,9 @@ import pandas as pd
 import plotly.graph_objects as go
 import plotly.express as px
 
+#Miembros Equipo:
+# Flores Bustos Karen
+# Mexica Contreras Yaretzi
 # Configuración de la página
 st.set_page_config(page_title="Dashboard NBA", layout="wide")
 
